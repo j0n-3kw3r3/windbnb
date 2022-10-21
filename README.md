@@ -1,1 +1,1 @@
-windbnbclone.netlify.app
+https://windbnbclone.netlify.app
